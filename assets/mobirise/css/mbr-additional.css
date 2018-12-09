@@ -93,7 +93,7 @@ h6,
   background-color: #f3c649 !important;
 }
 .bg-danger {
-  background-color: #f28281 !important;
+  background-color: #b8312f !important;
 }
 .btn-primary {
   background-color: #0ba7a4;
@@ -196,8 +196,8 @@ h6,
   border-color: #e1a90f !important;
 }
 .btn-danger {
-  background-color: #f28281;
-  border-color: #f28281;
+  background-color: #b8312f;
+  border-color: #b8312f;
   color: #ffffff;
 }
 .btn-danger:hover,
@@ -206,14 +206,14 @@ h6,
 .btn-danger:active,
 .btn-danger.active {
   color: #ffffff;
-  background-color: #eb3d3c;
-  border-color: #eb3d3c;
+  background-color: #7b211f;
+  border-color: #7b211f;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #eb3d3c !important;
-  border-color: #eb3d3c !important;
+  background-color: #7b211f !important;
+  border-color: #7b211f !important;
 }
 .btn-primary-outline {
   background: none;
@@ -317,8 +317,8 @@ h6,
 }
 .btn-danger-outline {
   background: none;
-  border-color: #e82625;
-  color: #e82625;
+  border-color: #671b1a;
+  color: #671b1a;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
@@ -326,14 +326,14 @@ h6,
 .btn-danger-outline:active,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #f28281;
-  border-color: #f28281;
+  background-color: #b8312f;
+  border-color: #b8312f;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #f28281 !important;
-  border-color: #f28281 !important;
+  background-color: #b8312f !important;
+  border-color: #b8312f !important;
 }
 .text-primary {
   color: #0ba7a4 !important;
@@ -348,7 +348,7 @@ h6,
   color: #f3c649 !important;
 }
 .text-danger {
-  color: #f28281 !important;
+  color: #b8312f !important;
 }
 .alert-success {
   background-color: #49d25a;
@@ -360,7 +360,7 @@ h6,
   background-color: #f3c649;
 }
 .alert-danger {
-  background-color: #f28281;
+  background-color: #b8312f;
 }
 .btn-social {
   border-color: #0ba7a4;
@@ -408,7 +408,7 @@ h6,
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #e08886;
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
@@ -485,7 +485,41 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #header1-1y .mbr-section-title SPAN {
-  font-size: 46px;
+  font-size: 36px;
   font-family: 'Ubuntu', sans-serif;
   color: #efefef;
+}
+#content1-26 P {
+  color: #232323;
+  font-size: 23px;
+}
+#msg-box2-25 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-25 .mbr-section-subtitle {
+  color: #fafafa;
+}
+#msg-box2-29 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-29 .mbr-section-subtitle {
+  color: #fafafa;
+}
+#msg-box2-2a .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-2a .mbr-section-subtitle {
+  color: #fafafa;
+}
+#msg-box2-27 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-27 .mbr-section-subtitle {
+  color: #ffffff;
+}
+#msg-box2-28 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-28 .mbr-section-subtitle {
+  color: #ffffff;
 }
