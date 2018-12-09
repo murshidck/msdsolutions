@@ -148,10 +148,10 @@
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/accounting-achievement-aerial-1043506-2000x1092.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vasily-koloda-620886-unsplash-2000x1334.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#232323",
             "bgVideoRadio": false,
             "bgVideo": {
