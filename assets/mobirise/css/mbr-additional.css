@@ -1,13 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
-
-
-
 
 
 
@@ -492,118 +488,4 @@ h6,
   font-size: 46px;
   font-family: 'Ubuntu', sans-serif;
   color: #efefef;
-}
-#msg-box8-20 .mbr-section-title,
-#msg-box8-20 p {
-  color: #fff;
-}
-#msg-box8-20 .mbr-section-title {
-  font-size: 20px;
-  font-family: 'Lora', serif;
-  text-align: center;
-}
-#msg-box8-20 .lead P {
-  text-align: center;
-  font-family: 'Oswald', sans-serif;
-  color: #ffffff;
-}
-#msg-box8-20 .mbr-section-title SPAN {
-  font-family: 'Oswald', sans-serif;
-  font-size: 30px;
-  color: #ffffff;
-}
-#msg-box8-20 .btn {
-  font-size: 16px;
-}
-
-#header3-12 .mbr-section-title,
-#header3-12 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-12 .mbr-section-title {
-  text-align: left;
-}
-#content1-13 P {
-  font-size: 25px;
-  font-family: 'Noto Sans', sans-serif;
-}
-#header1-1g .mbr-section-title {
-  color: #fac51c;
-}
-
-#menu-1o .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-1o .navbar-caption {
-  color: #ffffff;
-  font-size: 30px;
-  font-family: 'Open Sans Condensed', sans-serif;
-}
-#menu-1o .navbar-toggler {
-  color: #232323;
-}
-#menu-1o .close-icon::before,
-#menu-1o .close-icon::after {
-  background-color: #232323;
-}
-#menu-1o .link,
-#menu-1o .dropdown-item {
-  color: #232323;
-}
-#menu-1o .link {
-  font-size: 0.95rem;
-}
-#menu-1o .dropdown-item,
-#menu-1o .nav-dropdown-sm .link {
-  font-size: 1.029rem;
-}
-#menu-1o .link:hover,
-#menu-1o .dropdown-item:hover,
-#menu-1o .link:focus,
-#menu-1o .dropdown-item:focus {
-  color: #0ba7a4;
-}
-#menu-1o .link[aria-expanded="true"],
-#menu-1o .dropdown-menu {
-  background: #e6e6e6;
-}
-#menu-1o .nav-dropdown-sm .link:focus,
-#menu-1o .nav-dropdown-sm .link:hover,
-#menu-1o .nav-dropdown-sm .dropdown-item:focus,
-#menu-1o .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu-1o .navbar,
-#menu-1o .nav-dropdown-sm,
-#menu-1o .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-1o .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#menu-1o .bg-color.transparent .link {
-  color: #232323;
-  transition: none;
-}
-#menu-1o .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-1o .bg-color.transparent.opened .link:hover,
-#menu-1o .bg-color.transparent.opened .link:focus {
-  color: #0ba7a4;
-}
-#menu-1o .link[aria-expanded="true"],
-#menu-1o .dropdown-item[aria-expanded="true"] {
-  color: #0ba7a4!important;
-}
-#header3-1q .mbr-section-title,
-#header3-1q .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1q .mbr-section-title {
-  text-align: left;
-}
-#content1-1r DIV {
-  font-size: 30px;
-}
-#content1-1r P {
-  font-size: 32px;
 }
