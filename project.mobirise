@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 95,
+    "uniqCompNum": 98,
     "versionPublish": "4.8.8",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
@@ -119,7 +119,7 @@
             "fontColor": "#232323",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"tel:+917592007679\">Call Us Now</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\" target=\"_blank\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"tel:+918129073284\">Call Us Now</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -164,7 +164,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">We create digital products&amp; experiences that have lasting impact</span>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Chat Us On WhatsApp</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=918129073284\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Chat Us On WhatsApp</a>  ",
           "_tags": [
             "Theme"
           ],
@@ -248,7 +248,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Web Development</span>",
           "text": "<span style=\"font-style: normal;\">A Website promote you 24/7: No employee will do that.</span>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US</a>",
           "_tags": [
             "Theme"
           ],
@@ -295,7 +295,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">App Development</span>",
           "text": "<span style=\"font-style: normal;\">Your mobile device has quickly become the easiest portal into your digital self.</span>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US</a>",
           "_tags": [
             "Theme"
           ],
@@ -344,7 +344,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Logo Design</span>",
           "text": "<span style=\"font-style: normal;\">The public is more familiar with bad design than good design</span>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US</a>",
           "_tags": [
             "Theme"
           ],
@@ -373,6 +373,72 @@
           "_styles": {
             "P": {
               "color": "#fafafa"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Contact",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT US",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "form": {
+            "action": "ckmurshid2@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-2p",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
             }
           }
         }
