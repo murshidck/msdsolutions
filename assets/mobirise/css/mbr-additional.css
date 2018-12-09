@@ -10,6 +10,12 @@
 
 
 
+
+
+
+
+
+
 body,
 input,
 textarea,
@@ -57,6 +63,12 @@ h6,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
+}
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
 }
 .btn-sm,
 .lead a,
@@ -493,33 +505,42 @@ h6,
   color: #232323;
   font-size: 23px;
 }
-#msg-box2-25 .mbr-section-title {
+#msg-box2-2c .mbr-section-title {
   color: #fff;
 }
-#msg-box2-25 .mbr-section-subtitle {
-  color: #fafafa;
+#msg-box2-2c .mbr-section-subtitle {
+  color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
-#msg-box2-29 .mbr-section-title {
-  color: #fff;
+#msg-box2-2c .mbr-section-title SPAN {
+  font-size: 36px;
 }
-#msg-box2-29 .mbr-section-subtitle {
-  color: #fafafa;
-}
-#msg-box2-2a .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-2a .mbr-section-subtitle {
-  color: #fafafa;
+#msg-box2-2c .mbr-section-subtitle SPAN {
+  font-family: 'Montserrat', sans-serif;
 }
 #msg-box2-27 .mbr-section-title {
   color: #fff;
 }
 #msg-box2-27 .mbr-section-subtitle {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
-#msg-box2-28 .mbr-section-title {
+#msg-box2-27 .mbr-section-title SPAN {
+  font-size: 36px;
+}
+#msg-box2-27 .mbr-section-subtitle SPAN {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box2-2d .mbr-section-title {
   color: #fff;
 }
-#msg-box2-28 .mbr-section-subtitle {
+#msg-box2-2d .mbr-section-subtitle {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
+}
+#msg-box2-2d .mbr-section-title SPAN {
+  font-size: 36px;
+}
+#msg-box2-2d .mbr-section-subtitle SPAN {
+  font-family: 'Montserrat', sans-serif;
 }
