@@ -135,7 +135,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>murshid.cf</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>digisol</a>",
           "_tags": [
             "Theme"
           ],
@@ -246,7 +246,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Web Development</span>",
+          "title": "<span style=\"font-weight: normal;\">Web Development - Rs 899&nbsp;</span>",
           "text": "<span style=\"font-style: normal;\">A Website promote you 24/7: No employee will do that.</span>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US</a>",
           "_tags": [
@@ -293,7 +293,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">App Development</span>",
+          "title": "<span style=\"font-weight: normal;\">App Development - Rs 899</span>",
           "text": "<span style=\"font-style: normal;\">Your mobile device has quickly become the easiest portal into your digital self.</span>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US</a>",
           "_tags": [
@@ -342,7 +342,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Logo Design</span>",
+          "title": "<span style=\"font-weight: normal;\">Logo Design - Rs 399</span>",
           "text": "<span style=\"font-style: normal;\">The public is more familiar with bad design than good design</span>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US</a>",
           "_tags": [
