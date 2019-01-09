@@ -135,7 +135,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>digisol</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>DigiSol</a>",
           "_tags": [
             "Theme"
           ],
@@ -162,7 +162,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.6"
           },
-          "title": "<span style=\"font-weight: normal;\">We create digital products&amp; experiences that have lasting impact &nbsp;@Rs 899</span>",
+          "title": "<span style=\"font-weight: normal;\">Website &amp; Android App Development &nbsp;@Rs &nbsp;2499</span>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=918129073284\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Chat Us On WhatsApp</a>  ",
           "_tags": [
@@ -246,7 +246,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Web Development - Rs 899&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">Web Development - Rs 2499&nbsp;</span>",
           "text": "<span style=\"font-style: normal;\">A Website promote you 24/7: No employee will do that.</span>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US</a>",
           "_tags": [
@@ -293,7 +293,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">App Development - Rs 899</span>",
+          "title": "<span style=\"font-weight: normal;\">App Development - Rs 2499</span>",
           "text": "<span style=\"font-style: normal;\">Your mobile device has quickly become the easiest portal into your digital self.</span>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US</a>",
           "_tags": [
@@ -342,7 +342,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Logo Design - Rs 399</span>",
+          "title": "<span style=\"font-weight: normal;\">Logo Design - Rs 999</span>",
           "text": "<span style=\"font-style: normal;\">The public is more familiar with bad design than good design</span>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US</a>",
           "_tags": [
@@ -364,7 +364,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 Murshid C K",
+          "text": "Copyright (c) 2018 DigiSol",
           "_tags": [
             "Theme"
           ],
