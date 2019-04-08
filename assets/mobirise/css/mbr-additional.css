@@ -10,11 +10,6 @@
 
 
 
-
-
-
-
-
 body,
 input,
 textarea,
@@ -491,67 +486,32 @@ h6,
 #menu-1b .dropdown-item[aria-expanded="true"] {
   color: #0ba7a4!important;
 }
-#header1-1y .mbr-section-title {
-  color: #ffffff;
-  font-size: 36px;
+#header1-2r .mbr-section-title {
+  font-size: 48px;
+  text-align: left;
 }
-#header1-1y SPAN {
+#header1-2r .mbr-section-lead {
   font-family: 'Oswald', sans-serif;
-}
-#header1-1y .mbr-section-title SPAN {
-  font-size: 36px;
-  font-family: 'Ubuntu', sans-serif;
   color: #efefef;
+  text-align: left;
 }
-#content1-26 P {
+#header1-2r .mbr-section-lead SPAN {
+  font-family: 'Ubuntu', sans-serif;
+}
+#header3-2v .mbr-section-title,
+#header3-2v .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-2t .card-subtitle {
+  color: #000000;
+}
+#features4-2t .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#content1-2u P {
   color: #232323;
-  font-size: 23px;
-}
-#msg-box2-2c .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-2c .mbr-section-subtitle {
-  color: #ffffff;
-  font-family: 'Ubuntu', sans-serif;
-}
-#msg-box2-2c .mbr-section-title SPAN {
-  font-size: 36px;
-  color: #fafafa;
-}
-#msg-box2-2c .mbr-section-subtitle SPAN {
   font-family: 'Montserrat', sans-serif;
-  color: #fafafa;
-}
-#msg-box2-27 .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-27 .mbr-section-subtitle {
-  color: #ffffff;
-  font-family: 'Ubuntu', sans-serif;
-}
-#msg-box2-27 .mbr-section-title SPAN {
-  font-size: 36px;
-}
-#msg-box2-27 .mbr-section-subtitle SPAN {
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box2-2d .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-2d .mbr-section-subtitle {
-  color: #ffffff;
-  font-family: 'Ubuntu', sans-serif;
-}
-#msg-box2-2d .mbr-section-title SPAN {
-  font-size: 36px;
-  color: #fafafa;
-}
-#msg-box2-2d .mbr-section-subtitle SPAN {
-  font-family: 'Montserrat', sans-serif;
-  color: #fafafa;
-}
-#footer1-2k P {
-  color: #fafafa;
 }
 #form1-2p .form-control-label {
   color: #232323;
